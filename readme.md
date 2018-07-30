@@ -100,7 +100,7 @@ Exercise 1
 
 Exercise. 2
 
-	1. n/a. To be developered as next steps
+	1. n/a. To be developed as next steps
 
 ##### Versioning
 * I used Git for versioning. For the versions available, see the tags on this repository.
