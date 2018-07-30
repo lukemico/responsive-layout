@@ -99,7 +99,8 @@ Exercise 1
 	2. jQuery - used in conjunction with Bootstrap.
 
 Exercise. 2
-	1. n/a
+
+	1. n/a. To be developered as next steps
 
 ##### Versioning
 * I used Git for versioning. For the versions available, see the tags on this repository.
