@@ -62,7 +62,7 @@ To view the files locally using Python SimpleServer -
 
 		(http://127.0.0.1:8000)
 
-Features
+##### Features
 
 Exercise 1 
 
@@ -75,7 +75,7 @@ Exercise. 2
 	2. The first accordion is open on document load.
 	3. If the open or active accordion is clicked, the panel is closed.
 
-Next Steps 
+##### Next Steps 
 
 Exercise 1 
 
@@ -87,12 +87,13 @@ Exercise. 2
 	1. Implement SASS/Less CSS styling for improved global styling across a website or application.
 	2. Workshop transitions and provide suggestions to further the UX/UI experience for a user. 
  
-Languages
+##### Languages
+
 	1. HTML - markup.
 	2. CSS - used to CSS Grid + styling.
 	3. JavaScript - handle the data and its outputs.
 
-Libraries
+##### Libraries
 
 Exercise 1 
 
@@ -102,10 +103,10 @@ Exercise 1
 Exercise. 2
 	1. n/a
 
-Versioning
+##### Versioning
 * I used Git for versioning. For the versions available, see the tags on this repository.
 
-Author/s
+##### Author/s
 * Luke Mico
 
 
