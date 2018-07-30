@@ -37,6 +37,7 @@ exercise2.html
 
 
 Installing
+
 To view the files locally using Python SimpleServer -
 
 	* To start a HTTP server on port 8000 (default port), type in Command Line:
@@ -62,6 +63,7 @@ To view the files locally using Python SimpleServer -
 		(http://127.0.0.1:8000)
 
 Features
+
 Exercise 1 
 
 	1. Responsive Bootstrap layout using media queries for Desktop and Mobile versions.
@@ -74,6 +76,7 @@ Exercise. 2
 	3. If the open or active accordion is clicked, the panel is closed.
 
 Next Steps 
+
 Exercise 1 
 
 	1. Implement SASS/Less CSS styling for improved global styling across a website or application.
@@ -90,6 +93,7 @@ Languages
 	3. JavaScript - handle the data and its outputs.
 
 Libraries
+
 Exercise 1 
 
 	1. Bootstrap - used for responsive framework.
