@@ -24,59 +24,50 @@ h1 {
 
 /* Accordian base class */
 
-.accordion {
-	background: linear-gradient(to bottom right, white, #F8F8F8);
+#accordian {
+	margin: 0 auto;
 	max-width: 900px;
+}
+
+button.accordion {
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    font-weight: 800;
+    transition: 0.4s;
+    background: linear-gradient(to bottom right, white, #F8F8F8);
 	background: white;
 	margin: 0 auto;
-  box-shadow: 0 15px 20px -15px rgba(0, 0, 0, 0.3), 0 35px 50px -25px rgba(0, 0, 0, 0.3), 0 85px 60px -25px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 15px 20px -15px rgba(0, 0, 0, 0.3), 0 35px 50px -25px rgba(0, 0, 0, 0.3), 0 85px 60px -25px rgba(0, 0, 0, 0.1);
 }
 
-.accordion-header {
-	border-bottom: 1px solid #eecda3;
-	color: #2a313a;
-	cursor: pointer;
-	font-weight: 700;
-	padding: 1.5rem;
-	background-color: white;
+button.accordion.active, button.accordion:hover {
+    background-color: white;
+    color: #ef629f;
 }
 
-.accordion-header:hover {
-	background: white;
+button.accordion:after {
+    content: '\002B';
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
 }
 
-.accordion-content.default {display: block;}
-
-.accordion-toggle {
-	background: white;
+button.accordion.active:after {
+    content: "\2212";
+    color: #ef629f;
 }
 
-.accordion-content {
-	display: none;
-	border-bottom: 1px solid #eecda3;
-	background: white;
-	padding: 1.5rem;
-	color: #4a5666;
+div.panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
 }
-
-.accordion-header::before {
-	content: '';
-	vertical-align: middle;
-	display: inline-block;
-	width: .75rem;
-	height: .75rem;
-	border-radius: 50%;
-	background-color: #2a313a;
-	margin-right: .75rem;
-}
-
-.active.accordion-header::before {
-	background-color: #ef629f;
-}
-
-
-
-
-
-
-
