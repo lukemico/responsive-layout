@@ -37,7 +37,7 @@ exercise2.html
 
 
 Installing
-	To view the files locally using Python SimpleServer -
+To view the files locally using Python SimpleServer -
 
 	* To start a HTTP server on port 8000 (default port), type in Command Line:
 
@@ -62,8 +62,8 @@ Installing
 		(http://127.0.0.1:8000)
 
 Features
-
 Exercise 1 
+
 	1. Responsive Bootstrap layout using media queries for Desktop and Mobile versions.
 	2. Desktop version renders 1440x650 placeholder image. Mobile version renders 600x600 placeholder image. 
 
@@ -74,8 +74,8 @@ Exercise. 2
 	3. If the open or active accordion is clicked, the panel is closed.
 
 Next Steps 
-
 Exercise 1 
+
 	1. Implement SASS/Less CSS styling for improved global styling across a website or application.
 	2. Implement image assets that can be called/ used within CSS file.
 
@@ -85,12 +85,13 @@ Exercise. 2
 	2. Workshop transitions and provide suggestions to further the UX/UI experience for a user. 
  
 Languages
-	* HTML - markup.
-	* CSS - used to CSS Grid + styling.
-	* JavaScript - handle the data and its outputs.
+	1. HTML - markup.
+	2. CSS - used to CSS Grid + styling.
+	3. JavaScript - handle the data and its outputs.
 
 Libraries
 Exercise 1 
+
 	1. Bootstrap - used for responsive framework.
 	2. jQuery - used in conjunction with Bootstrap.
 
@@ -98,9 +99,9 @@ Exercise. 2
 	1. n/a
 
 Versioning
-	* I used Git for versioning. For the versions available, see the tags on this repository.
+* I used Git for versioning. For the versions available, see the tags on this repository.
 
 Author/s
-	* Luke Mico
+* Luke Mico
 
 
