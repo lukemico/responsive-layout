@@ -1,6 +1,4 @@
-Overview - Responsive Layout
-
-Task
+Overview 
 
 Exercise 1
 ---
@@ -36,7 +34,7 @@ exercise2.html
 * Make it prettier.# responsive-layout
 
 
-Installing
+##### Installing
 
 To view the files locally using Python SimpleServer -
 
