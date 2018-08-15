@@ -73,7 +73,7 @@ To start the server locally using Python SimpleServer, run the following via the
 
 	Serving HTTP on 0.0.0.0 port 8000 ...
 
-* Open [http://localhost:3000](http://localhost:8000) to view the application in your browser.
+* Open [http://localhost:8000](http://localhost:8000) to view the application in your browser.
 
 
 ## Usage 
